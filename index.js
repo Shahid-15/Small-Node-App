@@ -1,4 +1,1 @@
-console.
-log(
-    "H
-    ello world")  
+console.log("Hello world")  
